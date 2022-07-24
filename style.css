@@ -1,0 +1,40 @@
+body{
+    background-color: dimgrey;
+}
+
+#cardsnumber{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 30px 0px;
+    
+    
+}
+    
+    
+    
+    
+    
+.cardnumber{
+ display: flex;  
+ flex-direction: column;
+ border: 5px solid gray;
+ border-radius: 5px;
+ margin: 5px;
+ background-color: cornsilk;
+ flex-basis: 0%;
+}
+ 
+
+
+
+    
+    
+
+    
+
+
+  
+
+
+    
